@@ -10,7 +10,7 @@ export function mainLoader() {
 
 const Main = () => {
 
-  const { userName } = useLoaderData
+  const { userName } = useLoaderData  
   return (
     <div>
       <h1>main</h1>
